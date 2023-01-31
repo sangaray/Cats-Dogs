@@ -7,7 +7,7 @@
 - Aprender mejores prácticas.
 - Aprender y practicar el workflow de GIT.
 - Usar y practicar testing.
-- 
+
 ## Base del Proyecto
 
 El repositorio se inicia con un `boilerplate` con la estructura general tanto del servidor como de cliente.
